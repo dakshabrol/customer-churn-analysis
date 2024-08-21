@@ -1,4 +1,4 @@
-# **Customer Churn Analysis in Power BI**
+# **Customer Churn Prediction and Prevention**
 
 ## Unlock the Power of Data to Retain Your Customers
 
